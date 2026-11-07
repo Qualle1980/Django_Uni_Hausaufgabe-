@@ -1,0 +1,25 @@
+
+# Virtuelle Python-Umgebung
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Django Datenbank
+db.sqlite3
+db.sqlite3-journal
+
+# Umgebungsvariablen und Geheimnisse
+.env
+.env.*
+
+# Editor und Betriebssystem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
